@@ -1,0 +1,18 @@
+# Local outputs and logs
+*.csv
+*.log
+*.txt
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Office lock/temp files
+~$*
+
+# Never commit collected source documents
+*.doc
+*.docx
+*.hwp
+*.hwpx
