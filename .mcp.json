@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tieum": {
+      "type": "http",
+      "url": "https://tieum.up.railway.app/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${TIEUM_API_KEY}"
+      }
+    }
+  }
+}
